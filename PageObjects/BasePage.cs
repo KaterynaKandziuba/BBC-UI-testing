@@ -14,9 +14,6 @@ namespace Kandziuba_SpecFlow.pages
 
         private static string BBC_URL = "https://www.bbc.com";
 
-        //[FindsBy(How = How.XPath, Using = "(//a[@class = 'gs-c-promo-heading gs-o-faux-block-link__overlay-link gel-pica-bold nw-o-link-split__anchor'])[19]")]
-        //private IWebElement shareWithBBCNewsTab;
-
 
         public BasePage(IWebDriver driver)
         {
