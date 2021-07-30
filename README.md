@@ -1,4 +1,4 @@
-# Kandziuba_BBC_UI_testing
+# BBC UI testing
 
 This is testing framework for https://www.bbc.com/, aimed to verify 2 features:
 - News displaying
